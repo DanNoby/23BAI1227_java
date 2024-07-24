@@ -1,5 +1,4 @@
-/* 
-22-07-2024
+ 22-07-2024
 
 public class Main{
     public static void main(String[] args) {
@@ -46,6 +45,6 @@ public class Main {
         System.out.println(Math.random());   //Math.random() 0.0 inclusive
     }        //1.0 exclusive
 }
-*/
+
 
 
