@@ -1,4 +1,3 @@
-/* 
 18-07-2024
 
 public class vars2 {
@@ -55,6 +54,6 @@ public class Stringmethods{
         System.out.println(txt.indexOf("locate"));
     }   //using indexOf()
 }
-*/
+
 
 
