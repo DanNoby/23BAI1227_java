@@ -24,7 +24,7 @@ public class thirty {
         System.out.println(sb.capacity()); // displays 70
 
         // String Builder methods
-        StringBuilder sb = new StringBuffer("Hello ");
+        StringBuilder sb = new StringBuilder("Hello ");
         sb.append("Java");
         System.out.println(sb);
 
