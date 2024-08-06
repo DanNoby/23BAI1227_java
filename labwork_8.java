@@ -1,4 +1,4 @@
-public class labwork8 {
+public class labwork_8 {
     public static void main(String[] args) {
         int intArray[][] = { { 1, 2, 3 }, { 4, 5 } };
         int cloneArray[][] = intArray.clone();
